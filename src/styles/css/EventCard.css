@@ -1,0 +1,40 @@
+.event {
+  background: #f2f2f2;
+  border-radius: 1rem;
+  padding: 1rem 1rem 1.5rem 1rem;
+  position: relative;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+.event h2,
+.event h4,
+.event p {
+  padding: 0;
+  margin: 0;
+}
+.event .event__img {
+  height: 15rem;
+  border-radius: 1rem 1rem 0 0;
+}
+.event .event__img img {
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+  object-fit: cover;
+}
+.event .event__content {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+.event .event__content .event__more {
+  display: flex;
+  justify-content: space-between;
+}
+.event .event__content .event__title {
+  color: black;
+}
+
+/*# sourceMappingURL=EventCard.css.map */
