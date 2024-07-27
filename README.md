@@ -5,9 +5,11 @@ Welcome to the ECell repository! This repository contains code, resources, and d
 ## Table of Contents
 
 - [About](#about)
+- [Tech USed](#TechStack)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
 - [License](#license)
+-[Snapshots](#snapshots)
 git
 ## About
 
@@ -19,6 +21,11 @@ In this repository, you will find:
 - Documentation and guides for various initiatives and events
 - Resources related to entrepreneurship, startups, and business development
 - Ways to get involved and contribute to ECell
+
+## TechStack
+-ReactJS(javascript XML)
+-Vite
+-CSS+SaSS
 
 ## Getting Started
 
