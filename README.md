@@ -5,11 +5,11 @@ Welcome to the ECell repository! This repository contains code, resources, and d
 ## Table of Contents
 
 - [About](#about)
-- [Tech USed](#TechStack)
+- [Tech Used](#TechStack)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
 - [License](#license)
--[Snapshots](#snapshots)
+- [Snapshots](#snapshots)
 git
 ## About
 
