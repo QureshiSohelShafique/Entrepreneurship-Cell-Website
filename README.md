@@ -52,6 +52,14 @@ To contribute to the repository, please follow these steps:
 
 Please note that all contributions will be reviewed by the repository maintainers before being accepted.
 
+## Snapshots
+
+![alt text](photos/home.png)
+![alt text](photos/Footer.png)
+![alt text](photos/contact.png)
+![alt text](photos/admin.png)
+![alt text](photos/About.png)
+
 ## License
 
 The ECell repository is licensed under the Qureshi Sohel Shafique. You are free to use, modify, and distribute the code and resources in this repository, subject to the terms and conditions of the license.
