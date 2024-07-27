@@ -125,7 +125,7 @@ const Navbar = () => {
         {/* right part */}
         <div className="navbar-buttons">
           <a
-            href="https://issuu.com/ecelliiitsonepat/docs/e_cell_iiit_sonepat"
+            href="#"
             className="navbar__connect"
             style={{
               textDecoration: "none",
