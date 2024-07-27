@@ -26,7 +26,7 @@ To get started with the ECell repository, follow these steps:
 
 1. **Clone the repository:** Use the following command to clone the repository to your local machine:
 
-         git clone https://github.com/ecell-org/ecell-repo.git
+         git clone https://github.com/QureshiSohelShafique/Entrepreneurship-Cell-Website.git
 
 2. **Install dependencies:** If the repository contains any projects with dependencies, follow the instructions in the project's README to install the necessary dependencies.
 
@@ -54,7 +54,7 @@ Please note that all contributions will be reviewed by the repository maintainer
 
 ## License
 
-The ECell repository is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code and resources in this repository, subject to the terms and conditions of the license.
+The ECell repository is licensed under the Qureshi Sohel Shafique. You are free to use, modify, and distribute the code and resources in this repository, subject to the terms and conditions of the license.
 
 ---
 
